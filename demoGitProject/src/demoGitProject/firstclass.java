@@ -6,6 +6,7 @@ public class firstclass {
 		int x=5;
 		int y=7;
 		int z=8;
+		System.out.println("HELLLLLLLLLO");
 		System.out.println("please add two numbers");
 		System.out.println("Result is: "+ add(x,y));
 		//add(x,y);
