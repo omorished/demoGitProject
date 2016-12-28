@@ -5,6 +5,7 @@ public class firstclass {
 	public static void main(String[] args) {
 		int x=5;
 		int y=7;
+		int swe211=100;
 		int z=8;
 		System.out.println("HELLLLLLLLLO");
 		System.out.println("please add two numbers");
